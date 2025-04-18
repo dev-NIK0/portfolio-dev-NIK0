@@ -10,7 +10,7 @@ import { SiSpringboot } from "react-icons/si";
 
 function Header() {
   return (
-    <div class="bg-indigo-500 sm:my-5 md:my-10 lg:my-20 sm:mx-10 md:mx-15 lg:mx-30 sm:w-120 md:w-200 lg:w-400 sm:h-150 lg:h-120 rounded-4xl lg:flex">
+    <div class="bg-indigo-500 sm:my-10 md:my-15 lg:my-20 sm:mx-auto md:mx-auto lg:mx-auto sm:w-120 md:w-200 lg:w-400 sm:h-150 lg:h-120 rounded-4xl lg:flex">
       <img
         class="sm:mx-40 md:mx-70 lg:mx-40 sm:my-10 lg:my-15 inline-block sm:w-40 md:w-70 lg:w-80 sm:h-40 md:h-70 lg:h-80 sm:top-7 md:top-13 lg:top-20 rounded-full"
         alt="img_nico"
